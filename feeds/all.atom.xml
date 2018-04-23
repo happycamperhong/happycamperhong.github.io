@@ -1,16 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Brandon's blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2018-04-22T22:26:53-07:00</updated><entry><title>First post</title><link href="/first-post.html" rel="alternate"></link><published>2018-04-22T22:26:53-07:00</published><updated>2018-04-22T22:26:53-07:00</updated><author><name>Brandon</name></author><id>tag:None,2018-04-22:/first-post.html</id><summary type="html">&lt;p&gt;Date:&lt;/p&gt;
-&lt;p&gt;Modified:&lt;/p&gt;
-&lt;p&gt;Category: To be deleted&lt;/p&gt;
-&lt;p&gt;Tags:&lt;/p&gt;
-&lt;p&gt;Slug:&lt;/p&gt;
-&lt;p&gt;Authors:&lt;/p&gt;
-&lt;p&gt;Summary:&lt;/p&gt;
-&lt;p&gt;Content here.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Date:&lt;/p&gt;
-&lt;p&gt;Modified:&lt;/p&gt;
-&lt;p&gt;Category: To be deleted&lt;/p&gt;
-&lt;p&gt;Tags:&lt;/p&gt;
-&lt;p&gt;Slug:&lt;/p&gt;
-&lt;p&gt;Authors:&lt;/p&gt;
-&lt;p&gt;Summary:&lt;/p&gt;
-&lt;p&gt;Content here.&lt;/p&gt;</content></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Brandon's blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2018-04-23T00:26:31Z</updated></feed>
