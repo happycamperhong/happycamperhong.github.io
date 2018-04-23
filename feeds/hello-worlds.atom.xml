@@ -1,47 +1,14 @@
-<!doctype html>
-<html lang="">	
-<head>
-	<meta charset="utf-8"/>
-	<title>Brandon's blog</title>	
-	<meta name="author" content="Brandon">
-	
-
-	<link rel="stylesheet" href="/theme/css/main.css" type="text/css" />
-		
-
-
-    <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Brandon's blog Atom Feed" />
-</head>
-	
-<body>
-
-    <div class="container">
-	  
-	  <header role="banner">
-	    <div class="feeds">
-	      <a href="/feeds/all.atom.xml" rel="alternate"><img src="/theme/images/icons/feed-32px.png" alt="atom feed"/></a>
-	    </div>
-		<a href="" class="title">Brandon's blog</a>
-      </header>
-	
-	  <div class="wrapper">
-
-		  <div role="main" class="content">
-
-
-
-      <article>
-        <h1><a href="/my-super-post.html">First post</a></h1>
-        <p>Here's to more content! <span class="math">\(E=h\nu\)</span>.</p>
-<script type="text/javascript">if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Brandon's blog - Hello worlds</title><link href="/" rel="alternate"></link><link href="/feeds/hello-worlds.atom.xml" rel="self"></link><id>/</id><updated>2018-04-23T00:26:46-07:00</updated><entry><title>First post</title><link href="/my-super-post.html" rel="alternate"></link><published>2018-04-23T00:26:46-07:00</published><updated>2018-04-23T00:26:46-07:00</updated><author><name>Brandon</name></author><id>tag:None,2018-04-23:/my-super-post.html</id><summary type="html">&lt;p&gt;Testing post generation, metadata, and mathjax support.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Here's to more content! &lt;span class="math"&gt;\(E=h\nu\)&lt;/span&gt;.&lt;/p&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
     var align = "center",
         indent = "0em",
         linebreak = "false";
 
     if (false) {
-        align = (screen.width < 768) ? "left" : align;
-        indent = (screen.width < 768) ? "0em" : indent;
-        linebreak = (screen.width < 768) ? 'true' : linebreak;
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
     }
 
     var mathjaxscript = document.createElement('script');
@@ -87,59 +54,4 @@
         "}";
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
-</script>
-      </article>
-
-      <hr />
-
-    
-
-
-
-		  </div>	
-		  
-		  <div class="sidebar">
-		    <div class="sidebar-container" >
-
-
-  	          <nav>
-	            <h2>Categories</h2>
-	            <ul>
-	                <li ><a href="/category/hello-worlds.html">Hello worlds</a></li>
-	            </ul>
-	          </nav>
-
-	            <aside>
-	            <h2>Social</h2>
-			      <ul class="social">
-				    <li><a href="#">You can add links in your config file</a><i></i></li>
-				    <li><a href="#">Another social link</a><i></i></li>
-			      </ul>
-			    </aside>
-
-	            <aside>
-	              <h2>Blogroll</h2>
-	              <ul>
-	                  <li><a href="http://getpelican.com/">Pelican</a></li>
-	                  <li><a href="http://python.org/">Python.org</a></li>
-	                  <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
-	                  <li><a href="#">You can modify those links in your config file</a></li>
-	              </ul>
-	            </aside>
-	        </div>
-		  </div>
-
-	  </div>
-
-      <footer>
-		<p role="contentinfo">
-		  Brandon - Proudly powered by <a href="http://alexis.notmyidea.org/pelican/">pelican</a>. Theme <a href="https://github.com/fle/pelican-sober">pelican-sober</a>.
-    	</p>
-
-	  </footer>	
-
-	</div>
-	
-
-</body>
-</html>
+&lt;/script&gt;</content><category term="pelican"></category><category term="publishing"></category><category term="mathjax"></category></entry></feed>
